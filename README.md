@@ -2,17 +2,14 @@
 
 ### Project Overview
 
+This project is a group coursework developed between November 2025 and December 2025
+
 **Future News Archive** is a speculative design project that explores a **future-oriented news website set in the year 2100**.  
 
 The project blends plausible scientific predictions with inspirations from science fiction films and novels, while referencing the structure and interaction patterns of today’s leading global news platforms.
 
 The goal is to imagine how news content, visual language, and user experience might evolve in the future, and to design an innovative media platform capable of presenting future news topics that could attract and engage audiences.
 
----
-
-### Project Type
-
-- Group Coursework Project  
 
 ---
 
