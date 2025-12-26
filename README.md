@@ -1,8 +1,6 @@
-## Future News Archive
+## Project Overview
 
-### Project Overview
-
-This project is a group coursework developed between November 2025 and December 2025
+This project is a **group coursework** developed between **November 2025 and December 2025**
 
 **Future News Archive** is a speculative design project that explores a **future-oriented news website set in the year 2100**.  
 
@@ -13,7 +11,7 @@ The goal is to imagine how news content, visual language, and user experience mi
 
 ---
 
-### My Role
+## My Role
 
 - **Concept Development & Narrative Design:** Developed the overall concept, future setting, and narrative framework of the website  
 - **Information Architecture & Prototyping:** Designed page structure and user flow, and created interactive prototypes  
@@ -24,7 +22,7 @@ I was responsible for the overall creative direction, narrative logic, prototype
 
 ---
 
-### Tools & Technologies
+## Tools & Technologies
 
 - **Prototyping & UI Design:** Figma  
 - **Development:** Figma Plugins, HTML, CSS, JavaScript  
