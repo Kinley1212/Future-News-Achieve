@@ -2,7 +2,7 @@
 
 This project is a **group coursework** developed between **November 2025 and December 2025**
 
-**Future News Archive** is a speculative design project that explores a **future-oriented news website set in the year 2100**.  
+**Tomorrow Times** is a speculative design project that explores a **future-oriented news website set in the year 2100**.  
 
 The project blends plausible scientific predictions with inspirations from science fiction films and novels, while referencing the structure and interaction patterns of today’s leading global news platforms.
 
